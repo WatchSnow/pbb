@@ -1,8 +1,8 @@
 # pbb
-PBB视频解密
+Pbb file extraction
 
-# 当前状态
-- 支持上一个版本(2017.4)之前的无密提取
+# Present
+- 支持上一个版本(2017.4)之前的No password extraction
 - 支持当前版本(2017.4-至今)的有密提取
 
 # TODO
